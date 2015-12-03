@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"CTags",
+		"EditorConfig",
+		"Emmet",
+		"FileDiffs",
+		"HTML-CSS-JS Prettify",
+		"INI",
+		"jQuery",
+		"jQuery Snippets pack",
+		"Keymaps",
+		"Package Control",
+		"Pretty JSON",
+		"SublimeGit",
+		"TrailingSpaces"
+	]
+}
