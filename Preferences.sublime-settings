@@ -3,6 +3,7 @@
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
 	"draw_white_space": "all",
 	"enable_tab_scrolling": false,
+	"bold_folder_labels": true,
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -16,12 +17,14 @@
 		"bower_components",
 		"vendor"
 	],
-	"font_size": 10,
+	"font_face": "Inconsolata",
+	"font_size": 16,
+	"line_padding_top": -1,
+	"line_padding_bottom": 0,
 	"ignored_packages":
 	[
 		"TrailingSpaces",
 		"Vintage"
 	],
-	"translate_tabs_to_spaces": true,
-	"update_check": false
+	"translate_tabs_to_spaces": true
 }
